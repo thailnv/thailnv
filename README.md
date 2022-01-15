@@ -1,16 +1,15 @@
 ### Hi there, I'm Thai Vinh👋
 
-## I'm a 3rd year student at VNUHCM-University of Information Technology!!
+## I'm a 4th year student at VNUHCM-University of Information Technology!!
 
-- 🌱 I’m currently learning Node js and React 
-- 👯 I’m looking to collaborate with other web and IoT developer
-- ⚡ Fun fact: Just a chick learning to code 🤣
+- 🌱 I’m currently learning NodeJs, ReactJs and Go.
+- 👯 I’m looking to collaborate with other web and IoT developer.
+- ⚡ Fun fact: I love manga, anime and light novel.
 
 ### Connect with me:
 
 [<img align="left" alt="Thai Vinh | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="codeSTACKr | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
 ### Languages and Tools:
